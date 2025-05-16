@@ -11,3 +11,5 @@ UI Templates:        https://django-crispy-forms.readthedocs.io/en/latest/instal
                      https://github.com/django-crispy-forms/crispy-bootstrap5
 
 Reference AI: https://www.udemy.com/course/django-complete-course/?couponCode=25BBPMXACCAGE2
+
+Code: https://github.com/legionscript/inventory_management
